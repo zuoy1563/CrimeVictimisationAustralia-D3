@@ -1,0 +1,74 @@
+[
+	{
+    "state": "New South Wales",
+    "education": {
+        "withNSQ": 3512.3,
+        "withoutNSQ": 2276.6
+    },
+    "unemploy_rate": 5.0
+	},
+
+	{
+    "state": "Victoria",
+    "education": {
+        "withNSQ": 2793.1,
+        "withoutNSQ": 1822.9
+    },
+    "unemploy_rate": 5.2
+	},
+
+	{
+    "state": "Queensland",
+    "education": {
+        "withNSQ": 2030.7,
+        "withoutNSQ": 1542.4
+    },
+    "unemploy_rate": 6.0
+	},
+
+	{
+    "state": "South Australia",
+    "education": {
+        "withNSQ": 713.5,
+        "withoutNSQ": 550.1
+    },
+    "unemploy_rate": 5.6
+	},
+
+	{
+    "state": "Western Australia",
+    "education": {
+        "withNSQ": 1191.7,
+        "withoutNSQ": 766.3
+    },
+    "unemploy_rate": 6.9
+	},
+
+	{
+    "state": "Tasmania",
+    "education": {
+        "withNSQ": 220.1,
+        "withoutNSQ": 163.6
+    },
+    "unemploy_rate": 6.1
+	},
+
+	{
+    "state": "Northern Territory",
+    "education": {
+        "withNSQ": 97.0,
+        "withoutNSQ": 62.8
+    },
+    "unemploy_rate": 3.9
+	},
+	
+	{
+    "state": "Australian Capital Territory",
+    "education": {
+        "withNSQ": 196.9,
+        "withoutNSQ": 101.1
+    },
+    "unemploy_rate": 4.1
+	}
+
+]
